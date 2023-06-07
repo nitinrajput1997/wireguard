@@ -14,7 +14,7 @@ sudo wg-quick up Nitin
 sudo wg-quick save Nitin
 sudo wg-quick down Nitin
 
-sudo systemctl enable wg-quick@Shubham
+sudo systemctl enable wg-quick@Nitin
 ```
 #### Check status
 ```
